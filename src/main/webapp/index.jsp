@@ -73,7 +73,7 @@
                     <a href="#" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1">
                         <i class="bi bi-buildings-fill"></i>
                     </a>
-                    <span class="mb-3 mb-md-0 text-body-secondary">&copy; 2023, Víctor M. Márquez.</span>
+                    <span class="mb-3 mb-md-0 text-body-secondary">&copy; 2023, Rodrigo Iglesias.</span>
                 </div>
             </div>
         </div>
